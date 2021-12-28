@@ -11,8 +11,8 @@ The difference is related to the fact that [reactive] agents consider the curren
 
 <table width:100%>
   <tr>
-    <td><img src="./_/SimpleReativeAgent_img1.png"></td>
-    <td><img src="./_/SimpleReativeAgent_img2.png"></td>
+    <td><img src="./_/SimpleReativeAgent_img1.jpg"></td>
+    <td><img src="./_/SimpleReativeAgent_img2.jpg"></td>
   </tr>
 </table>
 
